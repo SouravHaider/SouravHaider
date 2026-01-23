@@ -13,7 +13,4 @@ I enjoy working on real-world problems where technology, processes, and people i
 - Tools: Git, GitHub, VS Code
 
 ## 📫 How to reach me
-- LinkedIn: linkedin.com/in/souravhaider  
-- Email: your.email@example.com
-
-I prefer clean solutions, clear documentation, and code that actually gets used.
+- LinkedIn: linkedin.com/in/souravhaider
