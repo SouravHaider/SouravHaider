@@ -20,4 +20,4 @@ I enjoy working on real-world problems where technology, processes, and people i
 ---
 
 ### 📫 How to reach me
-You can reach me on [linkedin.com/in/souravhaider]
+You can reach me on [LinkedIn](https://linkedin.com/in/souravhaider)
