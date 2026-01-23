@@ -4,14 +4,14 @@ I enjoy working on real-world problems where technology, processes, and people i
 
 ---
 
-## 🔭 What I’m currently working on
+### 🔭 What I’m currently working on
 - Small Python and SQL projects focused on automation and data handling  
 - Exploring system-level concepts and improving existing tools  
 - Building a portfolio of practical, problem-driven projects
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 - Languages: Python, SQL  
 - Systems: Linux  
 - Concepts: Data analysis, automation, system support, problem-solving  
@@ -19,5 +19,5 @@ I enjoy working on real-world problems where technology, processes, and people i
 
 ---
 
-## 📫 How to reach me
+### 📫 How to reach me
 You can reach me on [linkedin.com/in/souravhaider]
