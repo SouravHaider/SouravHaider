@@ -1,16 +1,19 @@
-## Hi there 👋
+I’m Sourav, a Computer Science graduate with a practical interest in systems, data, and automation.  
+I enjoy working on real-world problems where technology, processes, and people intersect.
 
-<!--
-**SouravHaider/SouravHaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I’m currently working on
+- Small Python and SQL projects focused on automation and data handling  
+- Exploring system-level concepts and improving existing tools  
+- Building a portfolio of practical, problem-driven projects
 
-Here are some ideas to get you started:
+## 🛠 Tools & Technologies
+- Languages: Python, SQL  
+- Systems: Linux  
+- Concepts: Data analysis, automation, system support, problem-solving  
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- LinkedIn: linkedin.com/in/souravhaider  
+- Email: your.email@example.com
+
+I prefer clean solutions, clear documentation, and code that actually gets used.
