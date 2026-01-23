@@ -1,6 +1,6 @@
 ## 👨🏽‍🔧 My Profile
 I’m Sourav Haider can call me Mo, a Computer Science graduate with a practical interest in systems, data, and automation.  
-I enjoy working on real-world problems where technology, processes, and people intersect.
+I enjoy working on real-world problems where technology, processes, and passionate about learning new technology and building cool projects.
 
 ---
 
@@ -19,5 +19,5 @@ I enjoy working on real-world problems where technology, processes, and people i
 
 ---
 
-### 📫 How to reach me
+### 📫 Contact
 You can reach me on [LinkedIn](https://linkedin.com/in/souravhaider)
