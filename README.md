@@ -1,5 +1,4 @@
 ## 👨🏽‍🔧 My Profile
-I’m Sourav, with a practical interest in systems, data, and automation.  
 I enjoy working on real-world problems where technology, processes, and passionate about learning new technology and building cool projects.
 
 ---
