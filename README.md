@@ -1,17 +1,18 @@
 # 👨🏽‍💻 Hi, I'm Mo
  
-I enjoy solving real-world problems where technology and process meet. I'm passionate about learning new tools and building practical projects — mostly around **Python, SQL, automation, and Linux systems**.
+I enjoy solving real-world problems where technology and process meet. I'm passionate about learning new tools and building practical projects, mostly around **Python, SQL, automation, and Linux systems**.
  
 📍 Based in London · he/him
  
 ---
+
+> 💼 **Currently looking for a role I'll enjoy** — somewhere I can keep my mind happy *and* my bank app calm. If that sounds like your team, scroll to the bottom. 👇
  
 ## 🔭 What I'm currently working on
  
 - 🐍 Small **Python & SQL** projects focused on automation and data handling
 - ⚙️ Exploring **system-level concepts** and improving existing tools
 - 📦 Building a portfolio of practical, problem-driven projects
-<!-- Tip: swap in something specific, e.g. "Teaching myself ML by reworking the Titanic dataset from scratch" -->
  
 ---
  
@@ -60,6 +61,6 @@ A machine-learning project exploring the classic Titanic and housing datasets.
  
 ## 📫 Get in touch
  
-I'm always happy to chat about Python, automation, or data projects — and open to collaborating.
+I'm always happy to chat about Python, automation, or data projects and open to collaborating.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravhaider/)
