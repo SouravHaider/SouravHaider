@@ -3,6 +3,7 @@
 I enjoy solving real-world problems where technology and process meet. I'm passionate about learning new tools and building practical projects, mostly around **Python, SQL, automation, and Linux systems**.
  
 📍 Based in London · he/him
+💼 Currently looking for a role I'll enjoy — both mentally and financially. If your team's building something useful, I'd love to chat (details at the bottom 👇).
  
 ---
 
@@ -38,26 +39,18 @@ Somewhere I can keep my mind happy *and* my bank app calm. If that sounds like y
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
- 
-<!-- Keep this list honest — only what you actually use. Add a badge back when a project earns it. -->
+
  
 ---
  
 ## 📂 Featured projects
  
 ### [Housing-Titanic](https://github.com/SouravHaider/Housing-Titanic)
-A machine-learning project exploring the classic Titanic and housing datasets.
-<!-- One sentence: what it does + one thing you learned building it. -->
+A machine learning project that predicts Titanic passenger survival and house prices, covering the full workflow from data cleaning and feature engineering to model training and evaluation. Building it taught me how much careful feature engineering and thoughtful handling of missing data can shape model performance, often more than the choice of algorithm itself.
  
-<!-- Add a second project here once it's ready -->
+### [Face Liveness Detection](https://github.com/SouravHaider/face-liveness-detection)
+A computer-vision project that detects whether a face in front of the camera is a real, live person or a spoof (such as a printed photo or a video replay). Building it taught me how to work with real-time video frames and the practical trade-offs between accuracy and speed when a model has to make decisions on the fly.
  
----
- 
-## 📊 GitHub at a glance
- 
-![Mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravHaider&show_icons=true&hide_border=true&theme=dark)
- 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravHaider&layout=compact&hide_border=true&theme=dark)
  
 ---
  
