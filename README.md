@@ -6,7 +6,7 @@ I enjoy solving real-world problems where technology and process meet. I'm passi
  
 ---
 
-> 💼 **Currently looking for a role I'll enjoy** — somewhere I can keep my mind happy *and* my bank app calm. If that sounds like your team, scroll to the bottom. 👇
+💼 **Currently looking for a role I'll enjoy** — somewhere I can keep my mind happy *and* my bank app calm. If that sounds like your team, scroll to the bottom. 👇
  
 ## 🔭 What I'm currently working on
  
