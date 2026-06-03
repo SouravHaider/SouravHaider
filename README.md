@@ -4,7 +4,7 @@ I enjoy solving real-world problems where technology and process meet. I'm passi
  
 📍 Based in London · he/him
 >💼 Currently looking for a role I'll enjoy...  both mentally and financially. If your team's building something useful, I'd love to chat
->(details at the bottom 👇).
+(details at the bottom 👇).
  
 ---
 
