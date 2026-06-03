@@ -57,6 +57,6 @@ A computer-vision project that detects whether a face in front of the camera is 
  
 ## 📫 Get in touch
  
-I'm always happy to chat about Python, automation, or data projects and open to collaborating.
+I'm always happy and open to collaborating.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravhaider/)
