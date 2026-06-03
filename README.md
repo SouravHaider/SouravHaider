@@ -2,8 +2,8 @@
  
 I enjoy solving real-world problems where technology and process meet. I'm passionate about learning new tools and building practical projects, mostly around **Python, SQL, automation, and Linux systems**.
  
-📍 Based in London · he/him
->💼 Currently looking for a role I'll enjoy...  both mentally and financially. If your team's building something useful, I'd love to chat
+📍 Based in London - Stratford · he/him
+>💼 Currently looking for a role I'll enjoy -- both mentally and financially. If your team's building something useful, I'd love to chat
 (details at the bottom 👇).
  
 ---
