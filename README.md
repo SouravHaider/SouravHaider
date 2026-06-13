@@ -54,7 +54,7 @@ A machine learning project that predicts Titanic passenger survival and house pr
 ### [Face Liveness Detection](https://github.com/SouravHaider/Face-Liveness-Detection)
 A computer-vision project that detects whether a face in front of the camera is a real, live person or a spoof (such as a printed photo or a video replay). Building it taught me how to work with real-time video frames and the practical trade-offs between accuracy and speed when a model has to make decisions on the fly.
 
-### [Home Network Security Lab]
+### [Home Network Security Lab](https://github.com/SouravHaider/HomeAdBlock)
 A self-hosted Pi-hole DNS sinkhole running in Docker on Apple Silicon, configured for whole-home ad and tracker blocking. The project involved resolving port conflicts, understanding DNS resolution flow, and evaluating alternatives like NextDNS for mobile coverage. It taught me how much visibility you gain into network traffic just by sitting at the DNS layer.
 
 ---
