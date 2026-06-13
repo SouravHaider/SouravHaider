@@ -51,7 +51,7 @@ I enjoy solving real-world problems where technology and process meet. I'm passi
 ### [Housing-Titanic](https://github.com/SouravHaider/Housing-Titanic)
 A machine learning project that predicts Titanic passenger survival and house prices, covering the full workflow from data cleaning and feature engineering to model training and evaluation. Building it taught me how much careful feature engineering and thoughtful handling of missing data can shape model performance, often more than the choice of algorithm itself.
 
-### [Face Liveness Detection](https://github.com/SouravHaider/Face-Liveness-Detection)
+### [Face Liveness Detection](https://github.com/SouravHaider/Face-Detection-Liveness)
 A computer-vision project that detects whether a face in front of the camera is a real, live person or a spoof (such as a printed photo or a video replay). Building it taught me how to work with real-time video frames and the practical trade-offs between accuracy and speed when a model has to make decisions on the fly.
 
 ### [Home Network Security Lab](https://github.com/SouravHaider/HomeAdBlock)
